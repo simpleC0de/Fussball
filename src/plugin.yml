@@ -1,0 +1,7 @@
+main: FS.Main.Football
+name: Fußball
+author: GoRoK
+website: GoRoK.xyz
+commands:
+
+  setspawn:
